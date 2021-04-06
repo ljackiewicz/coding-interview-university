@@ -1,7 +1,15 @@
 # Coding University
 
+## My Notes
+Big-O Notation Cheat Sheet  
+https://www.bigocheatsheet.com/
+
+Tutorials about Competetive Programming (how to understand, define and solve problems)  
+https://www.topcoder.com/community/competitive-programming/tutorials/
+
 ## Table of Contents
 
+- [My notes](#my-notes)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
